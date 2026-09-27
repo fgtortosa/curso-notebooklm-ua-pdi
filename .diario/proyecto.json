@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repo_id": "5b658abe-71e2-4481-bb25-9283a113c0cb",
+  "short_name": "curso-notebooklm-ua-pdi",
+  "display_name": "Repositorio curso-notebooklm-ua-pdi",
+  "description": "Código fuente y productos mantenidos en el repositorio curso-notebooklm-ua-pdi.",
+  "activated_on": "2026-09-27",
+  "products": [
+    {
+      "id": "curso-notebooklm-ua-pdi",
+      "canonical_name": "curso-notebooklm-ua-pdi",
+      "display_name": "curso-notebooklm-ua-pdi",
+      "description": "Producto herramienta mantenido en este repositorio.",
+      "kind": "herramienta"
+    }
+  ]
+}
