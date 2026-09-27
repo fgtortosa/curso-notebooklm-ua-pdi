@@ -118,3 +118,8 @@ Este material está disponible para el uso libre de cualquier persona o instituc
 - Para cuestiones técnicas sobre la implementación o el uso de NotebookLM, contacte con:
   - Jaume Aragones (jaume@ua.es)
   - Francisco Ramón García Tortosa (fgtortosa@ua.es)
+
+## Cambios menores
+
+<!-- diario:configuracion-inicial -->
+- 2026-09-27: activada la configuración local de Diario-IA (.diario/) para registrar decisiones, cambios y versiones junto al código.
